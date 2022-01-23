@@ -1,6 +1,6 @@
 Logistics specialist/foreman looking for opportunities to change career path to software development. On work leave to further my studies with programming.
 
-Been coding for a while, but for a few years more goal oriented. Studying in open University of Helsinki in Computer studies, and in Helsinki Business College for more indepth Angular + Java development.
+Been coding for a while, but for a few years more goal oriented. Studying in open University of Helsinki in Computer Science, and in Helsinki Business College for more indepth Angular + Java development.
 
 - 👀 I’m interested in Python, Java, and web development in general.
 - 💞️ I’m looking to collaborate on pretty much everything involving Angular, Spring Boot, Java and Python.
