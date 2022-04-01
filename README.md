@@ -1,4 +1,4 @@
-Former Logistics specialist/foreman looking for opportunities to change career path to software development. On work leave to further my studies with programming.
+A Software engineer in a full stack team, focusing on Vue.js and OpenEdge Abl/Progress 4gl.
 
 Been coding for a while, but for a past few years more goal oriented. Studying at open University of Helsinki in Computer Science, and in Helsinki Business College for more in depth Angular + Java development.
 
